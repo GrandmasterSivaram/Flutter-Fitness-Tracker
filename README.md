@@ -1,16 +1,14 @@
 # easy_fitness
 
-A new Flutter project.
+Flutter fitness tracker app made with flutter and cloud firestore
 
-## Getting Started
+## All features
 
-This project is a starting point for a Flutter application.
+* Authentication system with cloud firestore
+* Users can add workouts with title and time
+* Users will be displayed everytime with a random workout as a suggestion
+* Datbase used was cloud firestore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/Screenshot_1594561284.png" height=400em> <img src="screenshots/Screenshot_1594561471.png" height=400em> 
+<img src="screenshots/Screenshot_1594561435.png" height=400em> 
